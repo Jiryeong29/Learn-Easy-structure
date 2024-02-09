@@ -11,6 +11,6 @@ https://www.acmicpc.net/status?user_id=lingling29&problem_id=2164&from_mine=1
 ![!\[Alt text\](image.png)](%EC%9D%B4%EB%AF%B8%EC%A7%80/01.jpg)
 ![Alt text](%EC%9D%B4%EB%AF%B8%EC%A7%80/02.jpg)
 
-근데 포인터 변수를 하나만 사용해서 원형연결리스트가 단일 연결리스트보다 빠를 줄 알았는데
+근데 head 포인터 변수를 하나만 사용하기 때문에 원형연결리스트가 단일 연결리스트보다 빠를 줄 알았는데
 ![Alt text](image.png)
-막상 구현해보니 그렇지 않았다.쓸데 없는 계산을 한 번 더 해줬나?
+막상 구현해보니 그렇지 않았다. 구현과정에서 쓸데없는 코드를 더 작성해줬었나?
