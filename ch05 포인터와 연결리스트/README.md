@@ -7,8 +7,8 @@ https://www.acmicpc.net/status?user_id=lingling29&problem_id=2164&from_mine=1
 ## 원형연결리스트로 구현
 ### 문제를 풀면서 실수했던 것
 1. 단일연결리스트로 큐를 구현할 때는 Node형 front와 rear포인터 변수를 만들어서 구현하였는데, 원형연결리스트는 Node형 head포인터 변수만으로 삽입과 삭제 연산을 구현할 수 있었다. 그러나 구현을 하면서 헷갈리는 부분이 있었다. 삽입을 할때 새로운 노드가 아닌 기존 노드가 새로운 노드를 가리키도록 했어야 했는데 이 부분을 빼먹고 작성하지 않아 계속 에러가 났다. 헷갈렸던 부분을 기록해두도록 하겠따
-![Alt text](%EC%9D%B4%EB%AF%B8%EC%A7%80/01.jpg)
-![Alt text](%EC%9D%B4%EB%AF%B8%EC%A7%80/02.jpg)
+![Alt text](01.jpg)
+![Alt text](02.jpg)
 
 근데 head 포인터 변수를 하나만 사용하기 때문에 원형연결리스트가 단일 연결리스트보다 빠를 줄 알았는데
 ![Alt text](image.png)
