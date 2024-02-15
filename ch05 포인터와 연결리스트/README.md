@@ -41,5 +41,9 @@ https://www.acmicpc.net/status?user_id=lingling29&problem_id=2164&from_mine=1
 공부하다 끄적인거 기록
 ![Alt text](01.jpg)
 ![Alt text](02.jpg)
-![Alt text](03-1.jpg)
-![Alt text](04-1.jpg)
+![Alt text](03.jpg)
+![Alt text](04.jpg)
+
+## 이중연결리스트로 리스트를 구현해보면서
+![Alt text](05.jpg)
+![Alt text](06.jpg)
