@@ -22,7 +22,7 @@ public:
         //std::cout << "[top]의 주소 : " << top << std::endl;
 
     }
-
+ㅇ
     void push(int element) {
 
         Node* newNode = new Node(element, top);
